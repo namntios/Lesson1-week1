@@ -1,0 +1,8 @@
+Swift có 3 kiểu Collection : Array, Set, Dictionary
+- Array là tập hợp các giá trị được sắp xếp theo thứ tự index
+- Set là tập hợp các giá trị đơn, duy nhất và ko có thứ tự
+- Dictionary là tập hợp ko có thứ tự của các key- value
+
+ARRAY
+- Tạo 1 mảng trống : var someInts: [Int] = []
+- Tạo 1 mảng có giá trị mặc định: 
